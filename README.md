@@ -1,5 +1,5 @@
 
-# Sonic 1 Github Disassembly with Mega PCM 2
+# Sonic 1 Github Disassembly with Better Drums using Mega PCM 2
 
 This is an example Sonic 1 disassembly with Mega PCM 2 DAC driver pre-installed.
 
