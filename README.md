@@ -9,7 +9,11 @@ Original disassembly of Sonic 1: https://github.com/sonicretro/s1disasm
 
 ## Credits
 Mildanner - Code changing and extended drum mapping
+
 Hame - Sonic 3 HQ Drums
+
 Puto - Orchestral Hit Sample
+
 29yami - Sonic Voice Alright
+
 Vladikcomper - Mega PCM 2
